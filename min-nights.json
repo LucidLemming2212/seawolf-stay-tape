@@ -1,0 +1,1273 @@
+{
+  "asOf": "2026-08-15T12:20:58Z",
+  "listingId": "668378e5cd7d9200136d4077",
+  "cap": 3,
+  "currency": "CAD",
+  "days": {
+    "2026-08-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-17": {
+      "minNights": 2,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-18": {
+      "minNights": 2,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-19": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 165
+    },
+    "2026-08-20": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 165
+    },
+    "2026-08-21": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 220
+    },
+    "2026-08-22": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 220
+    },
+    "2026-08-23": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 220
+    },
+    "2026-08-24": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 195
+    },
+    "2026-08-25": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 195
+    },
+    "2026-08-26": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 195
+    },
+    "2026-08-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-29": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-30": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-08-31": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-01": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-02": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-03": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-04": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 250
+    },
+    "2026-09-05": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 250
+    },
+    "2026-09-06": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-07": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-08": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-09": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-10": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-11": {
+      "minNights": 2,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-09-12": {
+      "minNights": 2,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-09-13": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-14": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-15": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-16": {
+      "minNights": 1,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-17": {
+      "minNights": 1,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-18": {
+      "minNights": 1,
+      "source": "calendar",
+      "basePrice": 240
+    },
+    "2026-09-19": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 240
+    },
+    "2026-09-20": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-21": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-22": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-23": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-24": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-25": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 240
+    },
+    "2026-09-26": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 240
+    },
+    "2026-09-27": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-28": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-29": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-09-30": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-01": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-02": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-03": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-04": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-05": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-06": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-07": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-08": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-09": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-10": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-11": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-12": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-13": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-14": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-15": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-16": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-17": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-18": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-19": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-20": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-21": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-22": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-23": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-24": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-25": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-26": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-27": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-28": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-29": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-30": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-10-31": {
+      "minNights": 2,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-17": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-18": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-19": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-20": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-21": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-22": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-23": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-24": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-25": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-26": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-29": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-11-30": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 199
+    },
+    "2026-12-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 350
+    },
+    "2026-12-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 350
+    },
+    "2026-12-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 350
+    },
+    "2026-12-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 350
+    },
+    "2026-12-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-17": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2026-12-18": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 550
+    },
+    "2026-12-19": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 550
+    },
+    "2026-12-20": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 550
+    },
+    "2026-12-21": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 550
+    },
+    "2026-12-22": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 550
+    },
+    "2026-12-23": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-24": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-25": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-26": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-29": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-30": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2026-12-31": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-01-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-01-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 615
+    },
+    "2027-01-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 615
+    },
+    "2027-01-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-17": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-18": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-19": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-20": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-21": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-22": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-23": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-24": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-25": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-26": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-29": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-30": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-01-31": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-02-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-17": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-18": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-19": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 480
+    },
+    "2027-02-20": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-21": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-22": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-23": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-24": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-25": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-26": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-02-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-03-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-03-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-03-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-03-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "unavailable": true,
+      "basePrice": null
+    },
+    "2027-03-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-17": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-18": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-19": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-20": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-21": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-22": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-23": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-24": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-25": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-26": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-27": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-28": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-29": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-30": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-03-31": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-01": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-02": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-03": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-04": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-05": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-06": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-07": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-08": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-09": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-10": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 450
+    },
+    "2027-04-11": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2027-04-12": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2027-04-13": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2027-04-14": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2027-04-15": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 275
+    },
+    "2027-04-16": {
+      "minNights": 3,
+      "source": "calendar",
+      "basePrice": 350
+    }
+  }
+}
