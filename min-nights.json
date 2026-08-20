@@ -1,66 +1,45 @@
 {
-  "asOf": "2026-08-16T22:53:45Z",
+  "asOf": "2026-08-20T15:07:28Z",
   "listingId": "668378e5cd7d9200136d4077",
   "cap": 3,
   "currency": "CAD",
   "days": {
-    "2026-08-16": {
-      "minNights": 3,
-      "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
-    },
-    "2026-08-17": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
-    },
-    "2026-08-18": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
-    },
-    "2026-08-19": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 145
-    },
     "2026-08-20": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 145
+      "basePrice": null,
+      "unavailable": true
     },
     "2026-08-21": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 220
+      "basePrice": null,
+      "unavailable": true
     },
     "2026-08-22": {
-      "minNights": 2,
+      "minNights": 3,
       "source": "calendar",
-      "basePrice": 220
+      "basePrice": 180
     },
     "2026-08-23": {
-      "minNights": 2,
+      "minNights": 3,
       "source": "calendar",
-      "basePrice": 220
+      "basePrice": 180
     },
     "2026-08-24": {
-      "minNights": 2,
+      "minNights": 3,
       "source": "calendar",
-      "basePrice": 195
+      "basePrice": 170
     },
     "2026-08-25": {
-      "minNights": 2,
+      "minNights": 3,
       "source": "calendar",
-      "basePrice": 195
+      "basePrice": 170
     },
     "2026-08-26": {
-      "minNights": 2,
+      "minNights": 3,
       "source": "calendar",
-      "basePrice": 195
+      "basePrice": 170
     },
     "2026-08-27": {
       "minNights": 3,
@@ -661,8 +640,7 @@
     "2026-12-23": {
       "minNights": 3,
       "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
+      "basePrice": 550
     },
     "2026-12-24": {
       "minNights": 3,
