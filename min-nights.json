@@ -1,68 +1,33 @@
 {
-  "asOf": "2026-10-18T12:12:02Z",
+  "asOf": "2026-10-25T12:10:45Z",
   "listingId": "668378e5cd7d9200136d4077",
   "cap": 3,
   "currency": "CAD",
   "days": {
-    "2026-10-18": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 109
-    },
-    "2026-10-19": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 109
-    },
-    "2026-10-20": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 109
-    },
-    "2026-10-21": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 109
-    },
-    "2026-10-22": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 109
-    },
-    "2026-10-23": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 124
-    },
-    "2026-10-24": {
-      "minNights": 2,
-      "source": "calendar",
-      "basePrice": 124
-    },
     "2026-10-25": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 109
+      "basePrice": 111
     },
     "2026-10-26": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 109
+      "basePrice": 95
     },
     "2026-10-27": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 109
+      "basePrice": 95
     },
     "2026-10-28": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 109
+      "basePrice": 95
     },
     "2026-10-29": {
       "minNights": 2,
       "source": "calendar",
-      "basePrice": 109
+      "basePrice": 95
     },
     "2026-10-30": {
       "minNights": 2,
@@ -625,20 +590,17 @@
     "2027-02-14": {
       "minNights": 3,
       "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
+      "basePrice": 480
     },
     "2027-02-15": {
       "minNights": 3,
       "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
+      "basePrice": 480
     },
     "2027-02-16": {
       "minNights": 3,
       "source": "calendar",
-      "basePrice": null,
-      "unavailable": true
+      "basePrice": 480
     },
     "2027-02-17": {
       "minNights": 3,
